@@ -2,7 +2,7 @@ import { EnvironmentConfig } from './dev';
 
 const config: EnvironmentConfig = {
     envName : 'uat',
-    awsAccount: '911167917923',
+    awsAccount: '154810815388',
     awsRegion: 'ca-central-1',
 
     ec2: {
